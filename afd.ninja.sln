@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "afd.ninja(1)", "..\", "{A7AAEE6F-6A2C-431D-9C9C-30835CE03F07}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "afd.ninja", "..\", "{A7AAEE6F-6A2C-431D-9C9C-30835CE03F07}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_58874"
