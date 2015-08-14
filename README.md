@@ -1,4 +1,4 @@
-Running at http://localhost:80
+Running at http://localhost:3000/
 
 Every push to master will deploy a new version of this app to https://afdme.herokuapp.com/.
 Deploys happen automatically: be sure that this branch in GitHub is always in a deployable state and any tests have passed before you push.
