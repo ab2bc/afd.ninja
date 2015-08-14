@@ -1,5 +1,8 @@
 Running at http://localhost:80
 
+Every push to master will deploy a new version of this app to https://afdme.herokuapp.com/.
+Deploys happen automatically: be sure that this branch in GitHub is always in a deployable state and any tests have passed before you push.
+
 #### Add Hubot
 
 The docker image is ready.
